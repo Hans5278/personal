@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 韩江红的个人网站
 
 You can use the [editor on GitHub](https://github.com/Hans5278/personal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
